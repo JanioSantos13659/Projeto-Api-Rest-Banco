@@ -1,5 +1,5 @@
 # Banco Inovar
-Projeto API REST funções essenciais relacionadas para gerenciamento de contas bancárias.
+Projeto API REST - funções essenciais relacionadas ao gerenciamento de contas bancárias.
 
 ## Informações Projeto
 * Project: Maven Project
