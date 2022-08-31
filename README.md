@@ -2,12 +2,20 @@ Banco Invovar
 Projeto do Relacões Bancarias - Api Rest Java
 
 Passos para a criação do projeto
+
 Gerador do Projeto - Spring Initializer
+
 Projeto: Projeto Maven
+
 Linguagem Java
+
 Versão 2.1.6
+
 Grupo: br.com.alura
+
+
 Artefato: fórum
+
 Dependências: Web
 Gerar projeto (zip)
 Descompactar zip
