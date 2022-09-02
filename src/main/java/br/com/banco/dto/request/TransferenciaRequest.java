@@ -21,6 +21,7 @@ public class TransferenciaRequest {
     @NotBlank(message = "O campo numeroConta é obrigatório.")
     private String numeroContaDestino;
 
+    @Positive
     private Double valorTransferencia;
 
 
