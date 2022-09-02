@@ -21,7 +21,7 @@ Projeto API REST - funções essenciais relacionadas ao gerenciamento de contas 
 * API REST: outros desenvolvedores vão construir outras aplicações para consumir sua API
 * Disponibilizar endereço da API, os recursos, os métodos suportados
 * Swagger: ferramenta que automatiza a leitura dessa API e a geração de uma documentação
-* [swagger-ui](http://localhost:95978/swagger-ui.html) website gerado que explica como funciona a API, recursos, endereços, e até fazer testes diretamente para API
+* [swagger-ui](http://localhost:9795/swagger-ui/index.html) website gerado que explica como funciona a API, recursos, endereços, e até fazer testes diretamente para API
 * SpringFox: biblioteca que documenta API REST utilizando o Swagger. Incluir essa dependencia no pom.xml
 * springfox-swagger-ui: dependência que disponibiliza a documentação gerada automaticamente através de um site.
 * @EnableSwagger2: habilitação da geração de documentação no ForumApplication
