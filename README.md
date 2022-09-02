@@ -13,9 +13,8 @@ Projeto API REST - funções essenciais relacionadas ao gerenciamento de contas 
 * Eclipse: Import / Existing Maven Projects
 * IntelliJ IDEA: Import / Existing Maven Projects
 
-## Para rodar o projeto
+## Para rodar o projet
 * Na classe Main BancoApplication.java :  Run As > Java Application
-* Pagina do projeto (http://localhost:9597/)
 
 ## Documentação
 * API REST: outros desenvolvedores vão construir outras aplicações para consumir sua API
