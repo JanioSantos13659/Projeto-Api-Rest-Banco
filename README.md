@@ -23,7 +23,7 @@ Projeto API REST - funções essenciais relacionadas ao gerenciamento de contas 
 * [swagger-ui](http://localhost:9795/swagger-ui/index.html) website gerado que explica como funciona a API, recursos, endereços, e até fazer testes diretamente para API
 * SpringFox: biblioteca que documenta API REST utilizando o Swagger. Incluir essa dependencia no pom.xml
 * springfox-swagger-ui: dependência que disponibiliza a documentação gerada automaticamente através de um site.
-* @EnableSwagger2: habilitação da geração de documentação no ForumApplication
+* @EnableSwagger2: habilitação da geração de documentação no BancoApplication
 * SwaggerConfigurations: classe para configurar o swagger no seu projeto
 * Com Spring security configurado, liberar o endereço do Swagger para evitar o 403
  
